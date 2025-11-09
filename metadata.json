@@ -1,0 +1,7 @@
+{
+  "name": "Copy of AcciRadar",
+  "description": "A web application that simulates accident detection using device sensors, provides an option to report incidents, and displays related information on a map or user profile.",
+  "requestFramePermissions": [
+    "geolocation"
+  ]
+}
